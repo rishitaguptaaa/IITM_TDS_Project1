@@ -16,8 +16,8 @@
 
 This project scrapes data from the GitHub API to gather information on users in Moscow with a follower count above a set threshold and their associated repositories. The extracted data is written to CSV files for easy analysis. The project is divided into two parts:
 
-1. User Scraper: Collects user data (e.g., name, company, bio, number of followers, and public repositories).
-2. Repository Scraper: Retrieves details about each user's repositories (e.g., repository name, creation date, language, and license information).
+1. *User Scraper*: Collects user data (e.g., name, company, bio, number of followers, and public repositories).
+2. *Repository Scraper*: Retrieves details about each user's repositories (e.g., repository name, creation date, language, and license information).
 
 ## How to Use
 
